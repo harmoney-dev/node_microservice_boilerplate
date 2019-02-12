@@ -1,0 +1,19 @@
+{
+  "name": "node-athena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Ocana",
+  "license": "ISC",
+  "dependencies": {
+    "cloud-config-client": "^1.4.2",
+    "dotenv": "^6.2.0",
+    "eureka-js-client": "^4.4.2",
+    "express": "^4.16.4",
+    "express-ping": "^1.4.0",
+    "typescript": "^3.3.3"
+  }
+}
